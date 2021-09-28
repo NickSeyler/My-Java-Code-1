@@ -6,9 +6,12 @@ My first set of java code, and the first code I've ever created. The code consis
 
 ## Java-Set-2 ##
 
-First utilization of methods and comments and understanding returns and type declarations.
+Utilization of methods and comments and understanding returns and type declarations.
 
 ## Java-Set-3 ##
 
-First utilization of if-else statements.
+Utilization of if-else statements.
 
+## Java-Set-4 ##
+
+Utilization of switch case, methods from another class (Java's Math class), strings, and string formatting.
