@@ -31,7 +31,6 @@ public class DrivingCost
       //get user input
       System.out.print("Enter the driving distance in miles: ");
       distance = input.nextFloat();
-      input.close();
       
       //return a float value
       return distance;
@@ -46,7 +45,6 @@ public class DrivingCost
       //get user input
       System.out.print("Enter miles per gallon: ");
       mpg = input.nextFloat();
-      input.close();
       
       //return a float value
       return mpg;

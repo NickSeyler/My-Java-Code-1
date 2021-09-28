@@ -30,7 +30,6 @@ public class Cylinder
       //get user input
       System.out.println("Enter the radius of the cylinder: ");
       radius = input.nextFloat();
-      input.close();
       
       //return a float value
       return radius;
