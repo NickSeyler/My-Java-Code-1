@@ -33,3 +33,11 @@ Utilization of classes by demonstrating creation of objects and using methods fr
 ## Java-Set-8 ##
 
 Utilization of Array Lists
+
+## Java-Set-9 ##
+
+Utilization of exceptions and arguments via the command line.
+
+Note: Both files in the Calculator folder requires arguments.
+
+Note: CountWords.java links to a URL which is no longer active.
