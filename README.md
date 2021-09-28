@@ -15,3 +15,7 @@ Utilization of if-else statements.
 ## Java-Set-4 ##
 
 Utilization of switch case, methods from another class (Java's Math class), strings, and string formatting.
+
+## Java-Set-5 ##
+
+Utilization of while loops and nested loops
