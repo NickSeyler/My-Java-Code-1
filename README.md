@@ -32,7 +32,7 @@ Utilization of classes by demonstrating creation of objects and using methods fr
 
 ## Java-Set-8 ##
 
-Utilization of Array Lists
+Utilization of Array Lists, as well as a custom queue and stack.
 
 ## Java-Set-9 ##
 
