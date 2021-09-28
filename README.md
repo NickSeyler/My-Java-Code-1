@@ -23,4 +23,5 @@ Utilization of while loops and for loops, and also nesting loops.
 ## Java-Set-6 ##
 
 Utilization of arrays and sorting arrays.
+
 Note: StrictlyIdenticalLists.java uses arrays. This code was created before learning that a list in java is a different way to hold data. You should not call your arrays lists.
