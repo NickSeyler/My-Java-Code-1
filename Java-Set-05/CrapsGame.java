@@ -40,9 +40,6 @@ public class CrapsGame
             }
          }
       }
-      
-      
-      
    }
    
    //simulate rolling two six-sided dice
