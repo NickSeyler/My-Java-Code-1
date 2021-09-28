@@ -1,6 +1,6 @@
 //Author:      Nick Seyler
 //Date:        September 16, 2015
-//Description: 
+//Description: Test IndexOutOfBoundsException using user input
 
 import java.util.*;
 
