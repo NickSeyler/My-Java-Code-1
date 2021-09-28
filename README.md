@@ -18,4 +18,4 @@ Utilization of switch case, methods from another class (Java's Math class), stri
 
 ## Java-Set-5 ##
 
-Utilization of while loops and nested loops
+Utilization of while loops and for loops, and also nesting loops
