@@ -1,6 +1,6 @@
 //Author:      Nick Seyler
 //Date:        Aug 25, 2015
-//Description: Geometric class
+//Description: GeometricObject class
 
 import java.util.Date;
 

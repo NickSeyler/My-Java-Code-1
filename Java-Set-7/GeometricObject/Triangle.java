@@ -1,6 +1,6 @@
 //Author:      Nick Seyler
 //Date:        Aug 25, 2015
-//Description: Triangle class for triangles
+//Description: Triangle class
 
 public class Triangle extends GeometricObject
 {
