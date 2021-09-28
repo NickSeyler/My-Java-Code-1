@@ -29,3 +29,7 @@ Note: StrictlyIdenticalLists.java uses arrays. This code was created before lear
 ## Java-Set-7 ##
 
 Utilization of classes by demonstrating creation of objects and using methods from custom classes. Also utilizes overloading constructors, overriding methods, and introduces getters and setters.
+
+## Java-Set-8 ##
+
+Utilization of Array Lists
