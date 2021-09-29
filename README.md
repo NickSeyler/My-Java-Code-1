@@ -36,7 +36,7 @@ Utilization of Array Lists, as well as a custom queue and stack.
 
 ## Java-Set-9 ##
 
-Utilization of exceptions and arguments via the command line.
+Utilization of exceptions and files, and also using arguments via the command line.
 
 Note: Both files in the Calculator folder requires arguments.
 
