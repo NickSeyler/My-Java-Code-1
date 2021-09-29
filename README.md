@@ -44,6 +44,6 @@ Note: CountWords.java links to a URL which is no longer active.
 
 ## Java-Set-10 ##
 
-Utilization of UI and javafx
+Utilization of javafx and events, and basic UI. 
 
 Note: Oracle dropped javafx from JDK 11 onward.
