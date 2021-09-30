@@ -1,5 +1,7 @@
 # My-Java-Practice #
 
+Java code that was written to sharpen my skills, not only in Java syntax but also in the concepts of object oriented programming.
+
 ## Java-Set-1 ##
 
 My first set of java code, and the first code I've ever created. The code consists of simple uses of println, scanner, mathematical expressions.
